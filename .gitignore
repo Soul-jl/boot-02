@@ -33,3 +33,6 @@ build/
 target
 *.cmd
 mvnw
+.mvn
+*.md
+*.iml
